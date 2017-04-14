@@ -1,1 +1,1 @@
-tuscany-html
+tuscany
